@@ -1,11 +1,12 @@
 {
-   "romanian": 3,
+   "romanian": 100,
    "french": 100,
    "spanish": 100,
-   "german": 83,
+   "german": 100,
    "hebrew": 100,
    "japanese": 100,
    "dutch": 36,
    "polish": 100,
-   "turkish": 83
+   "turkish": 100,
+   "english, united kingdom": 100
 }
